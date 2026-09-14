@@ -1,0 +1,6 @@
+email,company_name,domain,industry,employee_count,revenue_range,founded_year,headquarters,linkedin_url
+jane@northwind.example,Northwind Analytics,northwind.example,Software,200-500,$10M-$50M,2014,"Austin, TX",linkedin.com/company/example-northwind
+omar@brightpath.example,BrightPath Retail,brightpath.example,E-commerce,50-200,$5M-$10M,2017,"Chicago, IL",linkedin.com/company/example-brightpath
+lena@greenleaf.example,Greenleaf Health,greenleaf.example,Healthcare,500-1000,$50M-$100M,2009,"Boston, MA",linkedin.com/company/example-greenleaf
+raj@summitworks.example,Summit Works,summitworks.example,Manufacturing,1000-5000,$100M-$500M,1998,"Denver, CO",linkedin.com/company/example-summitworks
+mia@bluefin.example,Bluefin Labs,bluefin.example,Artificial Intelligence,10-50,$1M-$5M,2022,"Seattle, WA",linkedin.com/company/example-bluefin

@@ -1,0 +1,6 @@
+domain,languages,frameworks,databases,cloud_providers,analytics,marketing_tools
+northwind.example,"TypeScript, Go","React, Next.js","PostgreSQL, Redis",AWS,"Segment, Amplitude",HubSpot
+brightpath.example,"PHP, JavaScript",WooCommerce,MySQL,GCP,Google Analytics 4,Klaviyo
+greenleaf.example,"Java, Python","Spring, React",PostgreSQL,Azure,Adobe Analytics,Salesforce Marketing Cloud
+summitworks.example,"C#, JavaScript",".NET, Angular",SQL Server,Azure,Google Analytics 4,Marketo
+bluefin.example,"Python, TypeScript","FastAPI, React",PostgreSQL,"GCP, AWS",PostHog,Customer.io
