@@ -86,6 +86,15 @@ Then authorize the connection when Cursor prompts you.
 | `profile-crawler` | Gather company profile (industry, headquarters, year founded) |
 | `tech-stack-crawler` | Detect technologies, languages, and frameworks used |
 
+## Control What Your AI Can Do
+
+You decide what AI agents can do with each connected account:
+
+- **Turn individual actions on or off** for every connected account, so agents only see the actions you allow.
+- **Connect as Read-only or Read & Write.** A read-only connection can only enable read actions.
+- **Destructive actions stay off by default.** Actions such as deletes are disabled until an admin enables them.
+- **Team access per account.** Restricted team members only use the accounts they are granted, with the read actions enabled on them.
+
 ## Usage Examples
 
 ### Company Discovery
@@ -173,6 +182,12 @@ Monitor competitor tech stacks and hiring trends.
 ## Security & Privacy
 
 - **Data encryption** - Secure transmission
+
+## Ready-Made Skills and Prompts
+
+- [Full Company Enrichment From Email](https://insightfulpipe.com/marketing-prompts-library/enrichment-full-company-enrichment-from-email)
+- [Lead Qualification Enrichment](https://insightfulpipe.com/marketing-prompts-library/enrichment-lead-qualification-enrichment)
+- [Competitor Company Research](https://insightfulpipe.com/marketing-prompts-library/enrichment-competitor-company-research)
 
 ## Explore More MCP Servers by Insightful Pipe
 
